@@ -103,7 +103,7 @@ solution:
         if (n < 10){
             return n
         }else {
-            arguments.callee((n+'').split('').reduce(function (a,b) {
+            return arguments.callee((n+'').split('').reduce(function (a,b) {
                 return parseInt(a) + parseInt(b)
             }))
         }
@@ -163,5 +163,97 @@ solution:
                 return a+b
             });
             return (sum === 1)?(mapping_arr.indexOf(1)+1):(mapping_arr.indexOf(0)+1)
+        }
+    }
+
+7.(6kyu) You live in the city of Cartesia where all roads are laid out in a perfect grid. You arrived ten minutes too early to an appointment, so you decided to take the opportunity to go for a short walk. The city provides its citizens with a Walk Generating App on their phones -- everytime you press the button it sends you an array of one-letter strings representing directions to walk (eg. ['n', 's', 'w', 'e']). You know it takes you one minute to traverse one city block, so create a function that will return true if the walk the app gives you will take you exactly ten minutes (you don't want to be early or late!) and will, of course, return you to your starting point. Return false otherwise.
+
+    Note: you will always receive a valid array containing a random assortment of direction letters ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).
+
+solution:
+
+    function isValidWalk(walk) {
+        if (walk.length !== 10){
+            return false
+        }else {
+            let walk_count ={
+                n: 0,
+                s: 0,
+                e: 0,
+                w: 0
+            };
+            walk.forEach(function (dir) {
+                switch (dir){
+                    case 'n':
+                        walk_count.n++;
+                        break;
+                    case 's':
+                        walk_count.s++;
+                        break;
+                    case 'e':
+                        walk_count.e++;
+                        break;
+                    case 'w':
+                        walk_count.w++;
+                        break;
+                }
+            });
+            return walk_count.n === walk_count.s && walk_count.e === walk_count.w
+        }
+    }
+
+8.(6kyu) Given two arrays a and b write a function comp(a, b) (compSame(a, b) in Clojure) that checks whether the two arrays have the "same" elements, with the same multiplicities. "Same" means, here, that the elements in b are the elements in a squared, regardless of the order.
+
+Examples
+
+Valid arrays
+
+    a = [121, 144, 19, 161, 19, 144, 19, 11]
+    b = [121, 14641, 20736, 361, 25921, 361, 20736, 361]
+comp(a, b) returns true because in b 121 is the square of 11, 14641 is the square of 121, 20736 the square of 144, 361 the square of 19, 25921 the square of 161, and so on. It gets obvious if we write b's elements in terms of squares:
+
+    a = [121, 144, 19, 161, 19, 144, 19, 11]
+    b = [11*11, 121*121, 144*144, 19*19, 161*161, 19*19, 144*144, 19*19]
+
+Invalid arrays
+
+If we change the first number to something else, comp may not return true anymore:
+
+    a = [121, 144, 19, 161, 19, 144, 19, 11]
+    b = [132, 14641, 20736, 361, 25921, 361, 20736, 361]
+
+comp(a,b) returns false because in b 132 is not the square of any number of a.
+
+    a = [121, 144, 19, 161, 19, 144, 19, 11]
+    b = [121, 14641, 20736, 36100, 25921, 361, 20736, 361]
+
+comp(a,b) returns false because in b 36100 is not the square of any number of a.
+
+Remarks
+
+a or b might be [] (all languages except R, Shell). a or b might be nil or null or None (except in Haskell, Elixir, C++, Rust, R, Shell).
+If a or b are nil (or null or None), the problem doesn't make sense so return false.
+If a or b are empty the result is evident by itself.
+
+solution:
+
+    function comp(array1, array2){
+        if (!array1 || !array2){
+            return false
+        }
+        if (array1.length === 0 && array2.length === 0){
+            return true
+        }else if (array1.length !== array2.length){
+            return false
+        }else {
+            let sorted_array1 = array1.sort(function (a, b) {
+                return a < b
+            });
+            let sorted_array2 = array2.sort(function (a, b) {
+                return a < b
+            });
+            return sorted_array1.every(function (a1, index) {
+                return a1*a1 === sorted_array2[index]
+            })
         }
     }
