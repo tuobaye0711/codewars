@@ -29,3 +29,5 @@ digital_root(493193)
 => 1 + 1
 => 2
 ```
+
+[solution](../solution/Sum\%20of\%20Digits.js)

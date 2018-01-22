@@ -19,3 +19,5 @@ A word (string) of length `0 < str < 200` For BF, all the input strings end with
 #Output
 
 The middle character(s) of the word represented as a string.
+
+[solution](../solution/Get\%20the\%20Middle\%20Character.js)

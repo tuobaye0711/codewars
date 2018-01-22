@@ -11,3 +11,5 @@ For example:
 **Only lower case letters will be used (a-z). No punctuation or digits will be included.**
 
 **Performance needs to be considered**
+
+[solution](../solution/Scramblies.js)

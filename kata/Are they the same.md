@@ -44,3 +44,5 @@ If `a` or `b` are empty the result is evident by itself.
 ## Note for C
 
 The two arrays have the same size `(> 0)` given as parameter in function `comp`.
+
+[solution](../solution/Are\%20they\%20the\%20same.js)

@@ -19,3 +19,5 @@ Arrays are written in "general" notation. See "Your Test Cases" for examples in 
 In Shell bash `a1` and `a2` are strings. The return is a string where words are separated by commas.
 
 Beware: `r` must be without duplicates.
+
+[solution](../solution/Which\%20are\%20in.js)
