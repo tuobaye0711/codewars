@@ -18,4 +18,4 @@
 8. (6kyu) [Are they the "same"?](kata/Are\%20they\%20the\%20same.md)
 9. (6kyu) [Good vs Evil](kata/Good\%20vs\%20Evil.md)
 10. (6kyu) [Scramblies](kata/Scramblies.md)
-
+11. (6kyu) [Find the odd int](Find\%20the\%20odd\%20int.md)
