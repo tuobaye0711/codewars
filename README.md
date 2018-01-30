@@ -1,5 +1,7 @@
 # codewars
 
+![tuobaye0711](https://www.codewars.com/users/tuobaye0711/badges/large)
+
 ***
 
 [codewars](https://www.codewars.com)是一个非常好的刷题网站，提供了多种编程语言的在线练习。codewars中有两个专有名词出现频率比较高：一个是kata，意思是招式，我们可以直接理解成题目；另一个是kyu，意思是段位，这就像打怪玩游戏一样，你破解的kata越多，你的段位就越高，可以享受到晋级的成就感，很容易让人一发而不可收拾。
@@ -20,3 +22,4 @@
 10. (6kyu) [Scramblies](kata/Scramblies.md)
 11. (6kyu) [Find the odd int](kata/Find\%20the\%20odd\%20int.md)
 12. (4kyu) [Next bigger number with the same digits](kata/Next bigger\%20number\%20with\%20the\%20same\%20digits)
+13. (4kyu) [Twice linear](kata/Twice\%20linear.md)
