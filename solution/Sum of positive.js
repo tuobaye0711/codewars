@@ -1,0 +1,1 @@
+const positiveSum = arr => arr.filter(a => a > 0).length > 0 ? arr.filter(a => a > 0).reduce((a, b) => a + b) : 0

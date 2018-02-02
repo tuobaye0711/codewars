@@ -1,0 +1,1 @@
+const opposite = number => -number;
