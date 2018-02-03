@@ -1,0 +1,1 @@
+const getCount = str => str.split('').filter(s => s === 'a' || s === 'e' || s === 'o' || s === 'i' || s === 'u').length
