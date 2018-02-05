@@ -36,3 +36,7 @@
 24. (7kyu) [Jaden Casing Strings](kata/Jaden\%20Casing\%20Strings.md)
 25. (8kyu) [Even or Odd](kata/Even\%20or\%20Odd.md)
 26. (5kyu) [Human Readable Time](kata/Human\%20Readable\%20Time.md)
+27. (6kyu) [Multiples of 3 or 5](kata/Multiples\%20of\%203\%20or\%205.md)
+28. (6kyu) [Decode the Morse code](kata/Decode\%20the\%20Morse\%20code.md)
+29. (6kyu) [Persistent Bugger](kata/Persistent\%20Bugger.md)
+29. (6kyu) [Equal Sides Of An Array](kata/Equal\%20Sides\%20Of\%20An\%20Array.md)
