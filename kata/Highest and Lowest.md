@@ -14,4 +14,4 @@ Notes:
 - There will always be at least one number in the input string.
 - Output string must be two numbers separated by a single space, and highest number is first.
 
-[solution](../solution/Highest/%20and/%20Lowest.js)
+[solution](../solution/Highest\%20and\%20Lowest.js)

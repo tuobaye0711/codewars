@@ -4,4 +4,4 @@ You get an array of numbers, return the sum of all of the positives ones.
 
 Note: array may be empty, in this case return 0.
 
-[solution](../solution/Sum/%20of/%20positive.js)
+[solution](../solution/Sum\%20of\%20positive.js)

@@ -9,4 +9,4 @@ Example:
     
 Note that the Java version expects a return value of null for an empty string or null.
 
-[solution](../solution/Jaden/%20Casing/%20Strings.js)
+[solution](../solution/Jaden\%20Casing\%20Strings.js)
