@@ -7,3 +7,5 @@ Examples:
     -34: 34
 
 But can you do it in 1 line of code and without any conditionals?
+
+[solution](../solution/Opposite/%20number.js)

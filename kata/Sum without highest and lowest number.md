@@ -17,3 +17,5 @@ Example:
 Have fun coding it and please don't forget to vote and rank this kata! :-) 
 
 I have created other katas. Have a look if you like coding and challenges.
+
+[solution](../solution/Sum/%20without/%20highest/%20and/%20lowest/%20number.js)

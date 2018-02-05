@@ -7,3 +7,5 @@ In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G
     DNAStrand ("ATTGC") # return "TAACG"
 
     DNAStrand ("GTAT") # return "CATA"
+
+[solution](../solution/Complementary/%20DNA.js)
