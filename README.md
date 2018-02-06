@@ -39,4 +39,6 @@
 27. (6kyu) [Multiples of 3 or 5](kata/Multiples\%20of\%203\%20or\%205.md)
 28. (6kyu) [Decode the Morse code](kata/Decode\%20the\%20Morse\%20code.md)
 29. (6kyu) [Persistent Bugger](kata/Persistent\%20Bugger.md)
-29. (6kyu) [Equal Sides Of An Array](kata/Equal\%20Sides\%20Of\%20An\%20Array.md)
+30. (6kyu) [Equal Sides Of An Array](kata/Equal\%20Sides\%20Of\%20An\%20Array.md)
+31. (6kyu) [Playing with digits](kata/Playing\%20with\%20digits.md)
+32. (6kyu) [Find The Parity Outlier](kata/Find\%20The\%20Parity\%20Outlier.md)
