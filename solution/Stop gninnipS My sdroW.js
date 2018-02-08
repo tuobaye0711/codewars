@@ -1,0 +1,1 @@
+const spinWords = str => str.split(' ').map(str => str.length > 4 ? str.split('').reverse().join('') : str).join(' ')

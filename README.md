@@ -42,3 +42,7 @@
 30. (6kyu) [Equal Sides Of An Array](kata/Equal\%20Sides\%20Of\%20An\%20Array.md)
 31. (6kyu) [Playing with digits](kata/Playing\%20with\%20digits.md)
 32. (6kyu) [Find The Parity Outlier](kata/Find\%20The\%20Parity\%20Outlier.md)
+33. (6kyu) [Stop gninnipS My sdroW!](kata/Stop\%20gninnipS\%20My\%20sdroW.md)
+34. (6kyu) [Your order, please](kata/Your\%20order,\%20please.md)
+35. (6kyu) [Tribonacci Sequence](kata/Tribonacci\%20Sequence.md)
+36. (6kyu) [Dubstep](kata/Dubstep.md)
