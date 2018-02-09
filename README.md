@@ -46,3 +46,5 @@
 34. (6kyu) [Your order, please](kata/Your\%20order,\%20please.md)
 35. (6kyu) [Tribonacci Sequence](kata/Tribonacci\%20Sequence.md)
 36. (6kyu) [Dubstep](kata/Dubstep.md)
+37. (5kyu) [Directions Reduction](kata/Directions\%20Reduction.md)
+38. (5kyu) [Sum of Pairs](kata/Sum\%20of\%20Pairs.md)
