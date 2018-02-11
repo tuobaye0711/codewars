@@ -48,3 +48,6 @@
 36. (6kyu) [Dubstep](kata/Dubstep.md)
 37. (5kyu) [Directions Reduction](kata/Directions\%20Reduction.md)
 38. (5kyu) [Sum of Pairs](kata/Sum\%20of\%20Pairs.md)
+39. (7kyu) [Shortest Word](kata/Shortest\%20Word.md)
+40. (5kyu) [Calculating with Functions](kata/Calculating\%20with\%20Functions.md)
+41. (5kyu) [A Chain adding function](kata/A\%20Chain\%20adding\%20function.md)
