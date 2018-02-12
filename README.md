@@ -51,3 +51,4 @@
 39. (7kyu) [Shortest Word](kata/Shortest\%20Word.md)
 40. (5kyu) [Calculating with Functions](kata/Calculating\%20with\%20Functions.md)
 41. (5kyu) [A Chain adding function](kata/A\%20Chain\%20adding\%20function.md)
+42. (5kyu) [Weight for weight](kata/Weight\%20for\%20weight.md)
