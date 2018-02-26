@@ -3,3 +3,4 @@ const add = n => {
     foo.valueOf = () => n;
     return foo
 }
+
