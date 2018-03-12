@@ -54,3 +54,6 @@ codewars中有两个专有名词出现频率比较高：一个是kata，意思�
 40. (5kyu) [Calculating with Functions](kata/Calculating\%20with\%20Functions.md)
 41. (5kyu) [A Chain adding function](kata/A\%20Chain\%20adding\%20function.md)
 42. (5kyu) [Weight for weight](kata/Weight\%20for\%20weight.md)
+43. (5kyu) [Weight for weight](kata/Valid\%20Parentheses.md)
+44. (5kyu) [Weight for weight](kata/You're\%20a\%20square.md)
+45. (5kyu) [Weight for weight](kata/Number\%20of\%20People\%20in\%20the\%20Bus.md)
