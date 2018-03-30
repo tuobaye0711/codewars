@@ -1,0 +1,1 @@
+const disemvowel = str => str.split('').map(s => 'aeiou'.indexOf(s.toLowerCase()) === -1 ? s : "").join("")

@@ -58,3 +58,5 @@ codewars中有两个专有名词出现频率比较高：一个是kata，意思�
 44. (7kyu) [You're a square!](kata/You're\%20a\%20square.md)
 45. (8kyu) [Number of People in the Bus](kata/Number\%20of\%20People\%20in\%20the\%20Bus.md)
 46. (7kyu) [Exes and Ohs](kata/Exes\%20and\%20Ohs.md)
+47. (5kyu) [Maximum subarray sum](kata/Maximum\%20subarray\%20sum.md)
+48. (8kyu) [Will you make it](kata/Will\%20you\%20make\%20it.md)
