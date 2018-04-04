@@ -63,7 +63,7 @@ codewars中有两个专有名词出现频率比较高：一个是kata，意思�
 49. (5kyu) [Simple Pig Latin](kata/Simple\%20Pig\%20Latin.md)
 50. (7kyu) [Disemvowel Trolls](kata/Disemvowel\%20Trolls.md)
 51. (7kyu) [Square Every Digit](kata/Square\%20Every\%20Digit.md)
-52. (6kyu) [Who likes it?](kata/Who\%20likes\%20it?.md)
+52. (6kyu) [Who likes it?](kata/Who\%20likes\%20it.md)
 53. (6kyu) [Bit Counting](kata/Bit\%20Counting.md)
 54. (8kyu) [Convert number to reversed array of digits](kata/Convert\%20number\%20to\%20reversed\%20array\%20of\%20digits.md)
 55. (5kyu) [Convert string to camel case](kata/Convert\%20string\%20to\%20camel\%20case.md)
