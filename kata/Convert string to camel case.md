@@ -9,3 +9,5 @@ toCamelCase("the-stealth-warrior")
 // returns "TheStealthWarrior"
 toCamelCase("The_Stealth_Warrior")
 ```
+
+[solution](../solution/Convert\%20string\%20to\%20camel\%20case.js)
