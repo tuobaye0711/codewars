@@ -15,3 +15,5 @@ Examples
 "[(])"     =>  False
 "[({})](]" =>  False
 ```
+
+[solution](../solution/Valid\%20Braces.js)
