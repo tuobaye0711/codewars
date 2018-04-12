@@ -1,0 +1,1 @@
+const duplicateEncode = word => word.split('').map(w => word.split('').filter(W => W.toLowerCase() === w.toLowerCase()).length).map(e => e === 1 ? '(' : ')').join('')
