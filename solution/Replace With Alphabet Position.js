@@ -1,0 +1,1 @@
+const alphabetPosition = text => text.toLowerCase().replace(/[^a-zA-Z]/g, '').split('').map(t => ' abcdefghijklmnopqrstuvwxyz'.indexOf(t)).join(' ')
