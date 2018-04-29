@@ -6,7 +6,7 @@ const createArray = (n) => {
     return arr
 }
 
-const trailingZeros = (n) => {
+const zeros = (n) => {
     let arr = createArray(n);
     let count = 0;
     arr.forEach(num => {
