@@ -95,3 +95,7 @@ codewars中有两个专有名词出现频率比较高：一个是kata，意思�
 81. (5kyu) [PaginationHelper](solution/PaginationHelper.js)
 82. (6kyu) [Delete occurrences of an element if it occurs more than n times](solution/Delete\%20occurrences\%20of\%20an\%20element\%20if\%20it\%20occurs\%20more\%20than\%20n\%20times.js)
 83. (6kyu) [Title Case](solution/Title\%20Case.js)
+83. (6kyu) [First non-repeating character]()
+83. (6kyu) [Build Tower]()
+83. (6kyu) [WeIrD StRiNg CaSe]()
+83. (6kyu) [Split Strings]()
