@@ -10,6 +10,8 @@ codewars中有两个专有名词出现频率比较高：一个是kata，意思�
 
 下面是我刷过的题目和答案，全是用Js代码实现的。
 
+**新增了LeetCode目录，有少量LeetCode题目，有时间的话慢慢刷~**
+
 ## kata目录
 
 1. (6kyu) [Unique In Order](kata/Unique\%20In\%20Order.md)
@@ -95,7 +97,7 @@ codewars中有两个专有名词出现频率比较高：一个是kata，意思�
 81. (5kyu) [PaginationHelper](solution/PaginationHelper.js)
 82. (6kyu) [Delete occurrences of an element if it occurs more than n times](solution/Delete\%20occurrences\%20of\%20an\%20element\%20if\%20it\%20occurs\%20more\%20than\%20n\%20times.js)
 83. (6kyu) [Title Case](solution/Title\%20Case.js)
-83. (6kyu) [First non-repeating character]()
-83. (6kyu) [Build Tower]()
-83. (6kyu) [WeIrD StRiNg CaSe]()
-83. (6kyu) [Split Strings]()
+84. (6kyu) [First non-repeating character](solution/First\%20non-repeating\%20character.js)
+85. (6kyu) [Build Tower](solution/[Build\%20Tower.js)
+86. (6kyu) [WeIrD StRiNg CaSe](solution/WeIrD\%20StRiNg\%20CaSe.js)
+87. (6kyu) [Split Strings](solution/Split\%20Strings.js)
