@@ -30,6 +30,7 @@ const DAY = 86400;
 const YEAR = 31536000;
 
 const formatDuration = seconds => {
+  if (seconds === 0) return 'now';
   let result = "";
   if (seconds >= YEAR) {
     const num = Math.floor(seconds / YEAR);
@@ -54,5 +55,5 @@ const formatDuration = seconds => {
   if (seconds >= SECOND) {
     result += `${result.length?', ':''}${seconds} second${seconds > 1 ? "s" : ""}`;
   }
-  return result.split('').reverse().join().replace(',','dna ').split('').reverse().join();
+  return result.split('').reverse().join('').replace(',','dna ').split('').reverse().join('');
 };
