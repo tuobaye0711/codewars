@@ -37,6 +37,7 @@ const sumStrings = (a, b) => {
       ac = arrayA[i] + arrayB[i] + ac > 9 ? 1 : 0;
     }
     if (ac > 0) sum.push("1");
+    if (sum[sum.length-1] === '0') sum.pop();
     return sum.reverse().join("");
   };
   return calc(arrA, arrB);
