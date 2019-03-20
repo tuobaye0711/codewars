@@ -101,3 +101,6 @@ codewars中有两个专有名词出现频率比较高：一个是kata，意思�
 85. (6kyu) [Build Tower](solution/[Build\%20Tower.js)
 86. (6kyu) [WeIrD StRiNg CaSe](solution/WeIrD\%20StRiNg\%20CaSe.js)
 87. (6kyu) [Split Strings](solution/Split\%20Strings.js)
+
+
+*More katas are not listed here. If you want to see it, you can find it directly in the folder...*
